@@ -4,6 +4,11 @@ class Main {
         Scanner input = new Scanner (System.in);
         System.out.println("Enter a height: ");
         int height = input.nextInt();
+        while (height < 1){
+            System.out.println("Invalid Entry!");
+            System.out.println("Enter a height: ");
+            height = input.nextInt();
+        }
         System.out.println("Pyramid pattern of star in Java: "); 
         int num = 1;
         int numstar = 0;
