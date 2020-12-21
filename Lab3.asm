@@ -1,3 +1,15 @@
+###################################################################################################################
+# Created by: Jones, Shweta
+#	      shsujone
+#	      16 November, 2020
+# Assignment: ASCII-risks
+#	      CMPE 012, Computer Systems and Assembly Language
+#             UC Santa Cruz, Falll 2020
+# Description: This lab focused on using developing programs using MIPS Assembly language. 
+# 	       The program was used to form a pyramid constructed of numbers and stars given a valid entry/height 
+#	       provided by the user.
+# Notes: This program is meant to run on MARS IDE and requires a java download as well.
+###################################################################################################################
 .text 
 main: 
 	li $v0, 4 #prompt is printed
