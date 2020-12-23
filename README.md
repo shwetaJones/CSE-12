@@ -1,5 +1,7 @@
 # CSE-12
-Programs from Computer Systems and Assembly Language:
+Computer Systems and Assembly Language class taught by Sheldon Logan at UCSC
 
+Labs include:
 Labs 1-2 uses MMLogic 
+
 Labs 3-5 uses MARS and is written in MIPS Assembly Language
