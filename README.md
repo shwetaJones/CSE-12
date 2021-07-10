@@ -5,7 +5,7 @@ University: University of California, Santa Cruz
 
 Professor: Professor Sheldon Logan
 
-Labs include:
+Labs:
 
     Labs 1-2 uses MMLogic 
 
