@@ -3,7 +3,7 @@ Computer Systems and Assembly Language
 
 University: University of California, Santa Cruz 
 
-Professor: Professor Sheldon Logan
+Professor: Sheldon Logan
 
 Labs:
 
