@@ -1,9 +1,9 @@
 # CSE-12
-Computer Systems and Assembly Language 
+## Computer Systems and Assembly Language 
 
-University: University of California, Santa Cruz 
+### University: University of California, Santa Cruz 
 
-Professor: Sheldon Logan
+### Professor: Sheldon Logan
 
 Labs:
 
